@@ -1,0 +1,22 @@
+= December 2015
+
+== Documentation
+
+December 06, 2015::
+
+Work on documentation. Removed four files. Add asciidoc.txt
+
+//
+
+- 3 hours
+
+//
+
+Commits in _user-sjelicic_ git repository:
+
+----
+effbaae doc: remove files
+494c913 doc: add asciidoc.txt
+----
+
+//
